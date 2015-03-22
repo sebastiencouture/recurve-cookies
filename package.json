@@ -1,7 +1,7 @@
 {
     "name": "recurve-cookies",
     "author": "Sebastien Couture",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "main": "src/recurve-cookies.js",
     "repository": {
         "type": "git",
