@@ -1,9 +1,9 @@
-Recurve Cookies [![Build Status](https://secure.travis-ci.org/sebastiencouture/recurve-cookies.png?branch=master)](https://travis-ci.org/sebastiencouture/recurve-cookies)
+recurve-cookies [![Build Status](https://secure.travis-ci.org/sebastiencouture/recurve-cookies.png?branch=master)](https://travis-ci.org/sebastiencouture/recurve-cookies)
 ===
 
 Cookies Javascript library for the browser.
 
-Wrapper around document.cookie to make dealing with cookies a bit more pleasant. Handles serialization and parsing
+Wrapper around `document.cookie` to make dealing with cookies a bit more pleasant. Handles serialization and parsing
 of object values.
 
 ## Usage
@@ -48,7 +48,7 @@ bower install recurve-cookies
 
 ## Browser Support
 
-IE6+
+IE8+
 
 ## License
 
