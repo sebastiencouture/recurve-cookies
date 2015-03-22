@@ -254,4 +254,4 @@ describe("utils", function() {
             }).toThrow(); // jshint ignore:line
         });
     });
-})
+});
